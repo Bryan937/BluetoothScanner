@@ -11,7 +11,8 @@ Bluetooth Scanner is an Android application designed to scan for nearby Bluetoot
 - Connectivity: Connect to available Bluetooth devices directly from the app.
 - Google Maps Integration: Visualize the location of discovered devices on a map.
 - Theme Customization: Switch between dark and light themes for personalized preferences.
-- Firebase Integration: Store and retrieve data securely with Firebase.
+- Firebase Integration: Store and retrieve saved devices securely with Firebase.
+  
 ## Technologies Used
 - Kotlin: The primary programming language for the application.
 - Jetpack Compose: Modern UI toolkit for building native Android UIs.
